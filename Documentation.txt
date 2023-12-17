@@ -1,0 +1,7 @@
+Design Process:
+
+Rationale of Design Choices:
+    (This should be a rigorous explanation of the design choices you made. For example, why did you use color to encode a particular variable? Why did you arrange your charts in a particular way?)
+
+Describe how you used your visualizations to discover facts or answer questions you had. Include
+Evidence to support your findings as screenshots from the visualization
